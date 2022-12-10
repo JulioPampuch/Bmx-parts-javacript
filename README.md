@@ -1,1 +1,1 @@
-<h1>Bmx Parts</h1>
+<h1>BMX Parts</h1>
